@@ -19,4 +19,6 @@ public class InputController : MonoBehaviour
     {
         model.inputLine[index] = !model.inputLine[index];
     }
+
+
 }
