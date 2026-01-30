@@ -44,11 +44,15 @@ public class PixelController : MonoBehaviour
             RenderInputLine();
         }
 
-        // Reset
-       
+        if (Input.GetKeyDown(KeyCode.G))
+        {
+            ResetAll();
+            RenderGrid();
+            RenderInputLine();
+        }
     }
 
-    // -------- LOGIK --------
+
 
     void Toggle(int index)
     {
