@@ -4802,7 +4802,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "W \u2192 Q6 \nA \u2192 Q5 \r\nPfeil nach oben \u2192 Q4 \r\nPfeil nach
     links \u2192 Q3\nPfeil nach rechts \u2192 Q2\r\nPfeil nach unten \u2192 Q1\r\nS
-    \u2192 Q0 \nD \u2192 Speichern"
+    \u2192 Q0 \nD \u2192 Speichern \nG \u2192 L\xF6schen\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
